@@ -1,0 +1,7 @@
+# Don't track content of these folders
+__pycache__/
+data/
+pytorch_resnet_cifar10-master/
+weights/
+
+
