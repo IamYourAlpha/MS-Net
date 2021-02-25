@@ -6,6 +6,8 @@
 <img src="overall.png" width=700/> 
 
 
+## Link to Paper
+[MSNET](https://link.springer.com/article/10.1007/s13042-020-01201-8)
 
 # Note:
 This project is part of my PhD thesis. I will post detail usage soon.
