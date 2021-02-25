@@ -1,0 +1,16 @@
+# Don't track content of these folders
+outputs/
+model/
+logs/
+__pycache__/
+core
+/.vs
+.vs
+/data/
+/pytorch_resnet_cifar10-master
+/Random-Erasing-master
+/weights
+*.pth
+*.jpg
+*.png
+*.tar
