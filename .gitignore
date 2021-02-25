@@ -12,5 +12,4 @@ core
 /weights
 *.pth
 *.jpg
-*.png
 *.tar
